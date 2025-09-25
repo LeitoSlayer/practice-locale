@@ -1,5 +1,5 @@
 ## TITULO INICIAL DE X COSA.
 
-Hola desde mi repositorio local
+Practica para poder usar git de manera optima.
 ---
 
